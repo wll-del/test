@@ -1,2 +1,2 @@
 this is a test file.
-this is branch1
+this is branch2.
